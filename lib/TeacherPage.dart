@@ -22,7 +22,7 @@ class TecherPage extends StatelessWidget {
       body: Container(
         child: Column(
           children: [
-            Text("This is our very dumb students."),
+            Text("Ami kisu komu na"),
             SizedBox(height: 50,),
             Container(
               height: 500,
